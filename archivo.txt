@@ -1,1 +1,2 @@
-Este es un archivo para la prueba del Github
+Este es un archivo para la prueba del GitHub.
+Esta es la primera vez que edito un archivo en cambio.
